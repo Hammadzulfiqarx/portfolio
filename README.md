@@ -34,15 +34,11 @@
 
 # 📖 [your_project_name] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **[project__name]** is a My Port-Folio Project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -51,8 +47,6 @@
   </ul>
 </details>
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **[This project contains html and css files with some styling on tags with flexbox properties.]**
 - **[ This project is free of any type of errors and all the errors are corrected by linters using bash commands. ]**
@@ -63,18 +57,12 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://hammadzulfiqarx.github.io/portfolio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
@@ -109,8 +97,6 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
 - GitHub: [@githuhammadzulfiqarx](https://github.com/Hammadzulfiqarx)
@@ -120,8 +106,6 @@ You can deploy this project using:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Linters Test on adding mor css]**
 - [ ] **[HTML and CSS Practices on diffrent coming sections]**
@@ -139,26 +123,17 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 I have made this project in a simple way so every one who will see my project will get learn a lot of things how to create simple projects. and if you like this project do a follow at my github profile to access for my coming future projects. Thanks!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank my batchmates Talha, Usman , Sohail and Shavaiz who helped me in this project every time when i got stuck in any problem.Also a great appreciacion to my mentor Sir Hamza who guide us very well about project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
 - **[Question_1 : They may ask about how to add and push files into github?]**
 
   - [Answer_1 : follow these steps how to overcome this problem: check git status. add the files in branch push the files into git]
